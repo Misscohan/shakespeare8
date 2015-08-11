@@ -10,4 +10,6 @@ ROMEO: What light through yonder window is broken?
 
 JULIET: Why it's me!
 
+ROMET: Wherefore art thou?
+
 THE END
